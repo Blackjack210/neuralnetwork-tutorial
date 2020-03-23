@@ -1,0 +1,20 @@
+Keras installation: 
+https://towardsdatascience.com/installing-keras-tensorflow-using-anaconda-for-machine-learning-44ab28ff39cb
+
+Para ejecutar el env en jupyter:
+https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
+
+Para CNN pytorch MNIST:
+https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/
+
+Para CNN keras MNIST:
+https://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
+
+Para time sequence:
+https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/
+
+Para Recurrent Neural Network:
+https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/
+
+LSTM (pending):
+https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/
