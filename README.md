@@ -1,4 +1,4 @@
-# Neural Networks
+# Neural Networks with PyTorch and Keras
 Tutorials on Convolutional and Recurrent Neural Networks with PyTorch and Keras. CNN are mainly used for image recognition and time sequences studies, and RNN are the basics for Natural Language Processing.
 
 - File 1 is a theoretical explanation on Convolutional Neural Networks (CNN).
